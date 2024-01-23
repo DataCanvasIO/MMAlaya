@@ -10,4 +10,4 @@ MMAlaya包含以下三个模块：
 
 2024.01.23 最终在[MMBench](https://mmbench.opencompass.org.cn)线上测试中文测试集分数为56.9，英文测试集分数为59.8。
 
-推理可以参考 [inference.py](https://github.com/bingwork/MMAlaya/blob/inference/inference.py)
+推理可以参考 [inference.py](https://github.com/DataCanvasIO/MMAlaya/blob/main/inference.py)
