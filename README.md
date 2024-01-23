@@ -1,5 +1,5 @@
 # MMAlaya
-MMAlaya是基于大语言模型[Alaya](https://github.com/DataCanvasIO/Alaya)的多模态模型。
+MMAlaya是基于大语言模型[Alaya](https://github.com/DataCanvasIO/Alaya)的多模态模型，模型权重文件在[DataCanvas/MMAlaya](https://huggingface.co/DataCanvas/MMAlaya/tree/main)
 
 MMAlaya包含以下三个模块：
 <br>1，大语言模型Alaya。
