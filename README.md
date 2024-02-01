@@ -9,5 +9,9 @@ MMAlaya包含以下三个模块：
 模型的训练主要基于[LLaVA](https://github.com/haotian-liu/LLaVA)架构
 
 2024.01.23 最终在[MMBench](https://mmbench.opencompass.org.cn)线上测试中文测试集分数为56.9，英文测试集分数为59.8。
+OpenCompass 评测榜单，均分41.1，排名25名。
+![opencompass-leaderboard-multimodal](https://github.com/DataCanvasIO/MMAlaya/blob/main/data/opencompass-leaderboard-multimodal.png)
+MMBench 评测榜单，开源开放的模型，中文测试集，均分58.6，排名25名。
+![opencompass-leaderboard-multimodal-cn](https://github.com/DataCanvasIO/MMAlaya/blob/main/data/opencompass-leaderboard-multimodal-cn.png)
 
 推理可以参考 [inference.py](https://github.com/DataCanvasIO/MMAlaya/blob/main/inference.py)
