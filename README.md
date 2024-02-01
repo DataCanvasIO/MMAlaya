@@ -14,3 +14,14 @@ MMBench 评测榜单，开源开放的模型，中文测试集，均分58.6，�
 ![opencompass-leaderboard-multimodal-cn](https://github.com/DataCanvasIO/MMAlaya/blob/main/data/opencompass-leaderboard-multimodal-cn.png)
 
 推理可以参考 [inference.py](https://github.com/DataCanvasIO/MMAlaya/blob/main/inference.py)
+
+# Citation
+MMAlaya使用<a href="https://github.com/DataCanvasIO/Alaya/blob/main/LICENSE">Apache 2.0 Lisense</a>，开放模型权重，允许商业用途。如果您的项目引用了我们的MMAlaya，请标明出处，并点个小星星 :star: ：
+```
+@misc{datacanvas2024mmalaya,
+    author = {DataCanvas Ltd.},
+    title = {mmalaya},
+    year = {2024},
+    howpublished = {\url{https://github.com/DataCanvasIO/MMAlaya}},
+}
+```
